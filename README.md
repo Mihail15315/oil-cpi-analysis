@@ -5,6 +5,7 @@ Streamlit Приложение для анализа взаимосвязи ме
 ![App Screenshot](screenshots/1.png)
 ![App Screenshot](screenshots/2.png)
 ![App Screenshot](screenshots/3.png)
+![App Screenshot](screenshots/4.png)
 
 # Features
 - Анализ корреляции между ценами на нефть и индексом потребительских цен
