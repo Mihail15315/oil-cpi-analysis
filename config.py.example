@@ -1,0 +1,4 @@
+### 5. `config.py.example`
+```python
+# Rename to config.py and add your API key
+FRED_API_KEY = 'your_api_key_here'
