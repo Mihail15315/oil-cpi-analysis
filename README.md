@@ -21,15 +21,17 @@ cd oil-cpi-analysis
 
 2. Создайте и активируйте виртуальное окружение:
 python -m venv venv
-*Windows*:  
+*Windows*:
+  
 venv\Scripts\activate
-*Mac/Linux*:  
+*Mac/Linux*:
+  
 source venv/bin/activate
 
-3. Скачайте зависимости:
+4. Скачайте зависимости:
 pip install -r requirements.txt
 
-4. Добавьте шрифты:
+5. Добавьте шрифты:
 - Скачайте DejaVuSans.ttf и DejaVuSans-Bold.ttf (https://dejavu-fonts.github.io)
 
 5. Создайте конфигурационный файл:
