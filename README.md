@@ -16,7 +16,7 @@ Streamlit Приложение для анализа взаимосвязи ме
 
 1. Клонируйте репозиторий:
 ```bash
-git clone [https://github.com/yourusername/oil-cpi-analysis.git](https://github.com/Mihail15315/oil-cpi-analysis.git)
+git clone https://github.com/Mihail15315/oil-cpi-analysis.git
 cd oil-cpi-analysis
 ```
 
