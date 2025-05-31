@@ -2,14 +2,16 @@
 
 Streamlit Приложение для анализа взаимосвязи между ценами на нефть и индексом потребительских цен (CPI.).
 
-![App Screenshot](screenshots/app1.png)
+![App Screenshot](screenshots/1.png)
+![App Screenshot](screenshots/2.png)
+![App Screenshot](screenshots/3.png)
 
-## Features
+# Features
 - Анализ корреляции между ценами на нефть и индексом потребительских цен
 - Создание отчетов в формате PDF
 - Визуализация последствий с запаздыванием
 
-## Installation
+# Installation
 
 1. Клонируйте репозиторий:
 ```bash
@@ -19,9 +21,9 @@ cd oil-cpi-analysis
 
 2. Создайте и активируйте виртуальное окружение:
 python -m venv venv
-# Windows:
+## Windows:
 venv\Scripts\activate
-# Mac/Linux:
+## Mac/Linux:
 source venv/bin/activate
 
 3. Скачайте зависимости:
