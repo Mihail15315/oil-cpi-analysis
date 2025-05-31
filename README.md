@@ -21,10 +21,12 @@ cd oil-cpi-analysis
 
 2. Создайте и активируйте виртуальное окружение:
 python -m venv venv
-*Windows*:
+
+**Windows**:
   
 venv\Scripts\activate
-*Mac/Linux*:
+
+**Mac/Linux**:
   
 source venv/bin/activate
 
