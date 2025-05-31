@@ -16,7 +16,7 @@ Streamlit Приложение для анализа взаимосвязи ме
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/yourusername/oil-cpi-analysis.git
+git clone [https://github.com/yourusername/oil-cpi-analysis.git](https://github.com/Mihail15315/oil-cpi-analysis.git)
 cd oil-cpi-analysis
 ```
 
@@ -33,9 +33,6 @@ source venv/bin/activate
 
 4. Скачайте зависимости:
 pip install -r requirements.txt
-
-5. Добавьте шрифты:
-- Скачайте DejaVuSans.ttf и DejaVuSans-Bold.ttf (https://dejavu-fonts.github.io)
 
 5. Создайте конфигурационный файл:
 cp config.py.example config.py
